@@ -21,7 +21,7 @@ Genre = "Pop"  # Song genre
 Duration = 328  # Song duration in seconds
 Publisher = "Motown"  # Publisher Name
 
-# Print Variables
+# Print values
 print('Title: ' + Title)
 print('Artist: ' + Artist)
 print('TrackNo: ' + str(TrackNo))
